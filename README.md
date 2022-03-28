@@ -2,7 +2,7 @@
 Pandas, Scikitlearn, Tensorflow, Keras
 
 ## Overview
-The prupose of this analysis was to create a neural network using Pandas, SciKitlearn, Tensorflow, and keras for Alphabet Soups business team using a CSV with information regarding funding to develop a working model that would predict success of the funding.  Data was cleaned and preprocessed prior to model development using Pandas and Scikitlearns One Hot Encoder and Standard Scaler to normalize the data.  A neural network model was created that predicted success at a moderate level of using the data provided.  Attempts were made to optimize the model to better predict success of the funding with minor improvements to the original model.
+The purpose of this analysis was to create a neural network using Pandas, SciKitlearn, Tensorflow, and keras for Alphabet Soups business team using a CSV with information regarding funding to develop a working model that would predict success of the funding.  Data was cleaned and preprocessed prior to model development using Pandas and Scikitlearns One Hot Encoder and Standard Scaler to normalize the data.  A neural network model was created that predicted success at a moderate level of using the data provided.  Attempts were made to optimize the model to better predict success of the funding with minor improvements to the original model.
 
 ### Resources
 charity_data.csv
